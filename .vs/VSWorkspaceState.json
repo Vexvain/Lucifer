@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages",
+    "\\packages\\Chart.js.2.9.3",
+    "\\packages\\Chart.js.2.9.3\\content",
+    "\\packages\\Chart.js.2.9.3\\content\\Content",
+    "\\packages\\System.ValueTuple.4.5.0",
+    "\\packages\\System.ValueTuple.4.5.0\\lib",
+    "\\packages\\System.ValueTuple.4.5.0\\ref",
+    "\\SafeGuardTemplate",
+    "\\SafeGuardTemplate\\Content",
+    "\\SafeGuardTemplate\\obj",
+    "\\SafeGuardTemplate\\Scripts"
+  ],
+  "SelectedNode": "\\packages\\System.ValueTuple.4.5.0\\lib\\MonoAndroid10",
+  "PreviewInSolutionExplorer": false
+}
