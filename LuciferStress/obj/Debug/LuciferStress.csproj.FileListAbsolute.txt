@@ -1,0 +1,44 @@
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\bin\Debug\LuciferStress.exe.config
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\bin\Debug\LuciferStress.exe
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\bin\Debug\LuciferStress.pdb
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\bin\Debug\System.ValueTuple.dll
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\bin\Debug\XanderUI.dll
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\bin\Debug\System.ValueTuple.xml
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\LuciferStress.csprojAssemblyReference.cache
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\SafeGuardTemplate.DDOS.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\SafeGuardTemplate.ForgotPassword.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\SafeGuardTemplate.MainForm.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\SafeGuardTemplate.Login.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\SafeGuardTemplate.Properties.Resources.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\SafeGuardTemplate.Register.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\SafeGuardTemplate.ResetPassword.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\SafeGuardTemplate.Startuo.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\LuciferStress.csproj.GenerateResource.cache
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\LuciferStress.csproj.CoreCompileInputs.cache
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\LuciferStress.csproj.CopyComplete
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\LuciferStress.exe
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\LuciferStress.pdb
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\bin\Debug\LoginTheme.dll
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Current Projects\LuciferStress\LuciferStress\obj\Debug\SafeGuardTemplate.Opacity2.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\bin\Debug\LuciferStress.exe.config
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\bin\Debug\LuciferStress.exe
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\bin\Debug\LuciferStress.pdb
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\bin\Debug\LoginTheme.dll
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\bin\Debug\System.ValueTuple.dll
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\bin\Debug\XanderUI.dll
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\bin\Debug\System.ValueTuple.xml
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\LuciferStress.csprojAssemblyReference.cache
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\SafeGuardTemplate.DDOS.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\SafeGuardTemplate.ForgotPassword.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\SafeGuardTemplate.MainForm.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\SafeGuardTemplate.Login.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\SafeGuardTemplate.Opacity2.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\SafeGuardTemplate.Properties.Resources.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\SafeGuardTemplate.Register.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\SafeGuardTemplate.ResetPassword.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\SafeGuardTemplate.Startuo.resources
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\LuciferStress.csproj.GenerateResource.cache
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\LuciferStress.csproj.CoreCompileInputs.cache
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\LuciferStress.csproj.CopyComplete
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\LuciferStress.exe
+C:\Users\klixy\OneDrive\Desktop\Klixyz\Personal\Botnet Stuff\Panel\Old Projects\LuciferStress Qrats\LuciferStress\obj\Debug\LuciferStress.pdb
