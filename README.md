@@ -2,4 +2,4 @@
 
 # NOTICE
 
-I am not responsible for what you decide to use this for. Don't be stupid and get yourself in trouble
+This is for educational purposes only.
